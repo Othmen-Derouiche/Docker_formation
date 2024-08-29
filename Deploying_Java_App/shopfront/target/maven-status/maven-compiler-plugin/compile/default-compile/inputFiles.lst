@@ -1,0 +1,9 @@
+/home/asus/Documents/Docker_formation/Deploying_Java_App/shopfront/src/main/java/uk/co/danielbryant/djshopping/shopfront/services/dto/StockDTO.java
+/home/asus/Documents/Docker_formation/Deploying_Java_App/shopfront/src/main/java/uk/co/danielbryant/djshopping/shopfront/repo/StockRepo.java
+/home/asus/Documents/Docker_formation/Deploying_Java_App/shopfront/src/main/java/uk/co/danielbryant/djshopping/shopfront/controllers/HomeController.java
+/home/asus/Documents/Docker_formation/Deploying_Java_App/shopfront/src/main/java/uk/co/danielbryant/djshopping/shopfront/services/dto/ProductDTO.java
+/home/asus/Documents/Docker_formation/Deploying_Java_App/shopfront/src/main/java/uk/co/danielbryant/djshopping/shopfront/ShopfrontApplication.java
+/home/asus/Documents/Docker_formation/Deploying_Java_App/shopfront/src/main/java/uk/co/danielbryant/djshopping/shopfront/services/ProductService.java
+/home/asus/Documents/Docker_formation/Deploying_Java_App/shopfront/src/main/java/uk/co/danielbryant/djshopping/shopfront/model/Product.java
+/home/asus/Documents/Docker_formation/Deploying_Java_App/shopfront/src/main/java/uk/co/danielbryant/djshopping/shopfront/resources/ProductResource.java
+/home/asus/Documents/Docker_formation/Deploying_Java_App/shopfront/src/main/java/uk/co/danielbryant/djshopping/shopfront/repo/ProductRepo.java

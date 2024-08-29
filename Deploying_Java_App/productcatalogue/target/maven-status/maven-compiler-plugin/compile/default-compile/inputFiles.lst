@@ -1,0 +1,6 @@
+/home/asus/Documents/Docker_formation/Deploying_Java_App/productcatalogue/src/main/java/uk/co/danielbryant/djshopping/productcatalogue/resources/ProductResource.java
+/home/asus/Documents/Docker_formation/Deploying_Java_App/productcatalogue/src/main/java/uk/co/danielbryant/djshopping/productcatalogue/configuration/ProductServiceConfiguration.java
+/home/asus/Documents/Docker_formation/Deploying_Java_App/productcatalogue/src/main/java/uk/co/danielbryant/djshopping/productcatalogue/model/Product.java
+/home/asus/Documents/Docker_formation/Deploying_Java_App/productcatalogue/src/main/java/uk/co/danielbryant/djshopping/productcatalogue/healthchecks/BasicHealthCheck.java
+/home/asus/Documents/Docker_formation/Deploying_Java_App/productcatalogue/src/main/java/uk/co/danielbryant/djshopping/productcatalogue/services/ProductService.java
+/home/asus/Documents/Docker_formation/Deploying_Java_App/productcatalogue/src/main/java/uk/co/danielbryant/djshopping/productcatalogue/ProductServiceApplication.java

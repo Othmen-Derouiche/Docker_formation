@@ -1,0 +1,7 @@
+/home/asus/Documents/Docker_formation/Deploying_Java_App/stockmanager/src/main/java/uk/co/danielbryant/djshopping/stockmanager/exceptions/StockNotFoundException.java
+/home/asus/Documents/Docker_formation/Deploying_Java_App/stockmanager/src/main/java/uk/co/danielbryant/djshopping/stockmanager/services/StockService.java
+/home/asus/Documents/Docker_formation/Deploying_Java_App/stockmanager/src/main/java/uk/co/danielbryant/djshopping/stockmanager/config/DataGenerator.java
+/home/asus/Documents/Docker_formation/Deploying_Java_App/stockmanager/src/main/java/uk/co/danielbryant/djshopping/stockmanager/StockManagerApplication.java
+/home/asus/Documents/Docker_formation/Deploying_Java_App/stockmanager/src/main/java/uk/co/danielbryant/djshopping/stockmanager/model/Stock.java
+/home/asus/Documents/Docker_formation/Deploying_Java_App/stockmanager/src/main/java/uk/co/danielbryant/djshopping/stockmanager/repositories/StockRepository.java
+/home/asus/Documents/Docker_formation/Deploying_Java_App/stockmanager/src/main/java/uk/co/danielbryant/djshopping/stockmanager/resources/StockResource.java
